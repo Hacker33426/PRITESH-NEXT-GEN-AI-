@@ -1,0 +1,13 @@
+
+{
+  "name": "pritesh-ai-next-gen",
+  "version": "1.0.0",
+  "description": "PRITESH AI NEXT GEN - WinGo 30S Prediction Engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
