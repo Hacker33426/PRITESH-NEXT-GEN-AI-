@@ -1,0 +1,13 @@
+
+{
+  "name": "pritesh-ai-next-gen",
+  "version": "2.0.0",
+  "description": "PRITESH AI NEXT GEN 30S",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
